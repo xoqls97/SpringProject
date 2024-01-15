@@ -1,0 +1,9 @@
+package com.myweb.www.service;
+
+import com.myweb.www.repository.CommentDAO;
+
+public class CommentServiceImpl implements CommentService {
+	
+	private final CommentDAO cdao;
+
+}

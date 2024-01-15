@@ -1,0 +1,40 @@
+package com.myweb.www.service;
+
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.stereotype.Service;
+
+import com.myweb.www.repository.CommentDAO;
+import com.myweb.www.repository.MemberDAO;
+import com.myweb.www.security.MemberVO;
+
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+
+@RequiredArgsConstructor
+@Slf4j
+@Service
+public class MemberServiceImpl implements MemberService {
+	private final MemberDAO mdao;
+
+	@Override
+	public void register(MemberVO mvo) {
+		//아이디가 중복되면 회원가입 실패
+		// => 아이디만 주고 DB에서 일치하는 mvo 객체를 리턴
+		// 일치하는 유저가 있다면 가입 실패, 없다면 가입가능
+		
+		//아이디가 중ㅈ복되지 않는다면 회원가입 진행
+		//password가 null이거나 값이 없다면 가입불가.
+		//회원가입 진행
+		//password는 암호화 하여 가입
+		//암호화(encode) / matches(입력된 pw, 암호화된pw) 같다면 =>true /false
+		log.info("signUP service impl check");
+		
+		//회원가입
+	
+		BCryptPasswordEncoder passwordencoder = new BCryptPasswordEncoder();
+		mvo.setPwd(passwordencoder.encode(mvo.getPwd()));
+		mdao.register(mvo);
+		
+	}
+
+}

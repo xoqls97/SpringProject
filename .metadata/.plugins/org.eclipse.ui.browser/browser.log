@@ -1,0 +1,106 @@
+
+12월 29, 2023 11:21:51.746 NEW SESSION
+12월 29, 2023 11:21:51.746 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 04, 2024 11:25:37.270 NEW SESSION
+1월 04, 2024 11:25:37.270 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 04, 2024 11:30:15.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 04, 2024 11:39:41.573 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 04, 2024 11:40:00.587 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 05, 2024 09:32:09.201 NEW SESSION
+1월 05, 2024 09:32:09.202 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 09:37:16.606 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:17:36.486 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:21:21.449 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:29:54.548 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:14:40.832 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:41:24.640 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 09, 2024 08:53:12.724 NEW SESSION
+1월 09, 2024 08:53:12.724 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 09:09:36.755 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 09:11:00.29 [12040:11136:0109/091100.028:ERROR:extension_registrar.cc(539)] Failed to unregister service worker for extension llbcnfanfmjhpedaedhbcnpgeepdnnok
+1월 09, 2024 09:13:13.362 [12040:11136:0109/091313.362:ERROR:device_event_log_impl.cc(192)] [09:13:13.362] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+
+1월 10, 2024 08:40:11.282 NEW SESSION
+1월 10, 2024 08:40:11.282 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 08:51:11.253 [5948:7492:0110/085111.252:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 08:51:15.305 [5948:7492:0110/085115.305:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 08:51:28.224 [5948:7492:0110/085128.224:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 08:54:54.154 [5948:7492:0110/085454.154:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 08:55:07.382 [5948:7492:0110/085507.382:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 08:55:37.438 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 09:01:00.298 [2428:4016:0110/090100.298:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 09:02:09.258 [2428:4016:0110/090209.258:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 10:24:29.785 [2428:4016:0110/102429.785:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 10:24:40.654 [2428:4016:0110/102440.654:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 10:25:43.256 [2428:4016:0110/102543.256:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 10:25:52.542 [2428:4016:0110/102552.542:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 10, 2024 10:29:03.805 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 10:39:44.131 [8528:14296:0110/103944.130:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+1월 11, 2024 08:16:36.363 NEW SESSION
+1월 11, 2024 08:16:36.363 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 11, 2024 09:12:48.415 [2664:6968:0111/091248.415:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 09:12:51.49 [2664:6968:0111/091251.049:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 09:23:48.487 [2664:6968:0111/092348.487:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+1월 11, 2024 09:24:43.45 NEW SESSION
+1월 11, 2024 09:24:43.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 11, 2024 09:25:57.688 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 11, 2024 11:22:44.328 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 11, 2024 11:22:46.114 [11860:2288:0111/112246.114:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:23:20.685 [11860:2288:0111/112320.685:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:23:56.835 [11860:2288:0111/112356.835:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:24:28.300 [11860:2288:0111/112428.300:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:25:13.628 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 11, 2024 11:25:53.236 [4636:13008:0111/112553.236:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:29:05.962 [4636:13008:0111/112905.962:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:29:48.687 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 11, 2024 11:29:58.147 [10112:11136:0111/112958.147:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:30:07.728 [10112:11136:0111/113007.728:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:35:19.674 [10112:11136:0111/113519.674:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:37:54.494 [10112:11136:0111/113754.494:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:37:55.754 [10112:11136:0111/113755.754:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:44:58.728 [10112:11136:0111/114458.726:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:45:05.952 [10112:11136:0111/114505.952:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:45:15.387 [10112:11136:0111/114515.387:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 11:45:16.500 [10112:11136:0111/114516.499:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 12:32:30.413 [10112:11136:0111/123230.413:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 11, 2024 12:53:12.121 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 11, 2024 13:12:36.276 [9300:8388:0111/131236.276:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 11, 2024 13:42:57.954 [9300:8388:0111/134257.953:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+1월 12, 2024 08:24:48.963 NEW SESSION
+1월 12, 2024 08:24:48.964 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 08:25:20.530 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 08:25:22.155 [6424:4492:0112/082522.154:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:25:24.200 [6424:4492:0112/082524.200:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:27:17.283 [6424:4492:0112/082717.282:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:28:02.118 [6424:4492:0112/082802.118:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:29:06.204 [6424:4492:0112/082906.204:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:29:09.820 [6424:4492:0112/082909.820:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:29:14.973 [6424:4492:0112/082914.972:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:29:25.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 08:29:33.413 [15128:15132:0112/082933.413:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 08:29:49.961 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 08:30:17.850 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 08:30:28.485 [13136:1320:0112/083028.485:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 09:22:50.129 [13136:1320:0112/092250.128:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 09:25:34.299 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 14:51:19.217 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 14:52:28.981 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 14:52:32.202 [944:7632:0112/145232.202:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 14:54:53.223 [944:7632:0112/145453.222:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 14:56:54.928 [944:7632:0112/145654.928:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 14:56:56.325 [944:7632:0112/145656.325:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 14:57:00.394 [944:7632:0112/145700.394:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 14:57:01.804 [944:7632:0112/145701.804:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 14:57:04.194 [944:7632:0112/145704.194:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 12, 2024 15:00:09.522 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 12, 2024 15:00:14.205 [2156:14108:0112/150014.205:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+1월 15, 2024 09:02:35.479 NEW SESSION
+1월 15, 2024 09:02:35.479 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 15, 2024 09:32:32.486 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

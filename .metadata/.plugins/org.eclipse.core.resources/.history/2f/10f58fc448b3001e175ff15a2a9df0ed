@@ -1,0 +1,45 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@page session="true" %>
+<jsp:include page="./layout/header.jsp"></jsp:include>
+<h1>zz</h1>
+
+<c:if test="${ses.id ne null }">
+<div>
+<p>${ses.id }님 ㅎㅇ</p>
+<span class="badge text-bg-primary">${last_login }</span>
+</div>	
+</c:if>
+
+<!-- kakao api -->
+
+	<div id="map" style="width:500px;height:400px;"></div>
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=babc08f81c7e00709c0f8e132af5db6b"></script>
+	<script>
+		var container = document.getElementById('map');
+		var options = {
+			center: new kakao.maps.LatLng(33.450701, 126.570667),
+			level: 3
+		};
+
+		var map = new kakao.maps.Map(container, options);
+	</script>
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=APIKEY&libraries=services,clusterer,drawing"></script>
+	
+	
+	
+
+<script>
+      const msg_login = `<c:out  value="${msg_login}"/>`;
+      const msg_logout = `<c:out value="${msg_logout}"/>`;
+      if(msg_login===1){ 
+    	  alert('로그인 실패 ㅋ');
+      }
+      if(msg_logout ==="1"){
+    	  alert('로그아웃 ㅋ');
+      }
+      
+</script>
+
+<jsp:include page="./layout/footer.jsp"></jsp:include>

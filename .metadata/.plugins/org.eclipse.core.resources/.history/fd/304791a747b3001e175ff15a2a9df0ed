@@ -1,0 +1,58 @@
+package com.myweb.www.security;
+
+import java.io.IOException;
+
+import javax.inject.Inject;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.security.core.Authentication;
+import org.springframework.security.web.DefaultRedirectStrategy;
+import org.springframework.security.web.RedirectStrategy;
+import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
+import org.springframework.security.web.savedrequest.HttpSessionRequestCache;
+import org.springframework.security.web.savedrequest.RequestCache;
+import org.springframework.stereotype.Component;
+
+import com.myweb.www.service.MemberService;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Component
+public class LoginSuccessHandler implements AuthenticationSuccessHandler {
+	
+	@Getter
+	@Setter
+	private String authEmail;
+	
+	@Getter
+	@Setter
+	private String authUrl;
+	
+	// redirect 데이터를 가지고 리다이렉트 하는 역할
+	private RedirectStrategy rdstg = new DefaultRedirectStrategy();
+
+	//실제 로그인 정보, 경로 등을 저장
+	private RequestCache reqCache = new HttpSessionRequestCache();
+	
+	@Inject
+	private MemberService msv;
+
+	@Override
+	public void onAuthenticationSuccess(HttpServletRequest request, HttpServletResponse response,
+			Authentication authentication) throws IOException, ServletException {
+		
+		//Authentication 인증된 AUthMember의 객체
+		setAuthEmail(authentication.getName());
+		setAuthUrl("/board/list");
+		
+		boolean isOk = msv.updateLastLogin(getAuthEmail());
+		
+		
+		
+
+	}
+
+}

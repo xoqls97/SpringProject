@@ -1,0 +1,18 @@
+package com.myweb.www.repository;
+
+import java.util.List;
+
+import com.myweb.www.domain.CommentVO;
+import com.myweb.www.domain.PagingVO;
+import com.myweb.www.handler.PagingHandler;
+
+public interface CommentDAO {
+
+	int insert(CommentVO cvo);
+
+	List<CommentVO> getList(long bno, PagingVO pgvo);
+
+	int selectOneBnoTotalCount(long bno);
+	
+
+}

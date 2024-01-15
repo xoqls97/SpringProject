@@ -1,0 +1,15 @@
+2024 01 04
+
+root 계정으로 DB생성, User 생성
+
+--db생성 구문
+create database myweb;
+
+--user생성 구문
+create user 'mywebUser'@'localhost' identified by 'ezen';
+
+--user 권한 부여
+grant all privileges on mywebdb.* to 'mywebUser'@'localhost' with grant option;
+
+--권한 설정 완료
+flush privileges;
