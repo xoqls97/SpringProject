@@ -104,3 +104,11 @@
 1월 15, 2024 09:02:35.479 NEW SESSION
 1월 15, 2024 09:02:35.479 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 1월 15, 2024 09:32:32.486 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 16, 2024 08:30:26.129 NEW SESSION
+1월 16, 2024 08:30:26.129 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 16, 2024 08:54:07.179 [4116:4100:0116/085407.178:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 16, 2024 09:07:58.801 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 16, 2024 09:08:21.981 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 16, 2024 09:45:17.282 [13244:7112:0116/094517.282:ERROR:device_event_log_impl.cc(192)] [09:45:17.282] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+1월 16, 2024 10:34:20.367 [13244:7112:0116/103420.367:ERROR:gpu_process_host.cc(992)] GPU process exited unexpectedly: exit_code=1

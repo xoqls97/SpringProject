@@ -24,5 +24,22 @@
   <update id="updateLastLogin">
   update member set lastlogin = now() where email=#{email}
   </update>
+
+  <update id="noupdate">
+  update member set nick_name=#{nickname} where email=#{email}
+  </update>  
+  
+  <update id="update">
+  update member set pwd=#{pwd}, nick_name=#{nickname} where email=#{email}
+  </update>
+  
+  <delete id="delete">
+  delete from member where email=#{email}
+  </delete>
+  
+  <select id="list" resultType="com.myweb.www.security.MemberVO">
+  select * from member;
+  </select>
+
   
   </mapper>

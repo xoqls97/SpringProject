@@ -27,11 +27,6 @@
            </div>
        </form>
     </div>
-    
-    
-    
-    
-    
 
 <table class="table">
     
